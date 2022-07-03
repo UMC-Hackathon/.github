@@ -12,6 +12,9 @@
 ## 기술스택
 
 서버 : Spring boot ,mysql , aws
+
 안드로이드 : 코틀린
+
 웹 : html,css,js
+
 디자이너 : 피그마
